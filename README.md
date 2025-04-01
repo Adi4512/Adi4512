@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Adi, a Web Developer 👋🏼:
 
-🛜 Currently working @ [TCS](https://www.tcs.com/)<br>👨🏼‍💻 Working as a web developer since 2023 <br>🚀 Software Engineer by Day, Entrepreneur by Night <br>✨ Check me out - [Portfolio](https://adityasharma-portfolio-o3mf.vercel.app/)<br>📨 Just shoot me a dm [here](https://x.com/adisha_10)</br>
+🛜 Currently working @ [TCS](https://www.tcs.com/)<br>👨🏼‍💻 Working as a web developer since 2023 <br>🚀 Software Engineer by Day, Entrepreneur by Night <br>✨ Check me out [Portfolio](https://adityasharma-portfolio-o3mf.vercel.app/)<br>📨 Just shoot me a dm [here](https://x.com/adisha_10)</br>
 
 # 💻 Tech Stack:
 
