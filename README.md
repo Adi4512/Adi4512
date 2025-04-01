@@ -1,4 +1,4 @@
-<img src="bannergithub.png" alt="GitHub Banner" width="100%" height="240px" />
+<img src="bannergithub.png" alt="GitHub Banner" width="1012px" height="240px" />
 
 # Hello World!, I'm Adi, a Web Developer 👋🏼:
 
