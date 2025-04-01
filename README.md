@@ -11,4 +11,4 @@
 
 # 📈 GitHub Stats:
 
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi4512&show_icons=true&theme=dark&rank_icon=github&count_private=true&include_all_commits=true&hide=contribs)
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi4512&show_icons=true&theme=dark)
